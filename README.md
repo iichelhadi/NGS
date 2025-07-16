@@ -1,6 +1,6 @@
 # NGS Pipelines
 
-Custom RNA-seq, ChIP-seq, and QC pipelines developed by Dr. Elhadi Iich  
+Custom RNA-seq, ChIP-seq, and QC pipelines developed by Elhadi Iich (PhD)  
 Affiliation: NUS Yong Loo Lin School of Medicine  
 Contact: iichelhadi@gmail.com
 
